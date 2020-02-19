@@ -1,3 +1,5 @@
+This is a YouTube Clone Application from Scratch using React. The application uses YouTube Data API v3 (insert your API Key in App.js to make it work).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
